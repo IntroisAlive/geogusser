@@ -1,9 +1,4 @@
 
----
-
-**Prompt:**
-
-> Build me a complete working web-based game called **Mini Geo Explorer** inspired by GeoGuessr.
 >
 > **Core Requirements:**
 >
